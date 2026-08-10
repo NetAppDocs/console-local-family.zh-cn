@@ -1,0 +1,18 @@
+= 支持注册概述
+:allow-uri-read: 
+
+
+要获得特定于 NetApp Console 本地部署及其存储解决方案和数据服务的技术支持，需要进行支持注册。
+
+
+
+[[support-registration-overview]]
+== 支持注册概述
+
+激活支持权限有两种注册形式：
+
+* 注册您的 NetApp Console 帐户序列号（您的 20 位 960xxxxxxxxx 序列号位于 Console 的"支持资源"页面）。
++
+这可作为控制台内任何服务的单个支持订阅 ID。每个 Console 帐户都必须注册。
+
+

@@ -1,0 +1,26 @@
+= 使用自助服务选项
+:allow-uri-read: 
+
+
+NetApp 以多种方式为 NetApp Console 本地部署提供支持。全天候 24x7 提供广泛的免费自助服务选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包括通过网络票务提供远程技术支持。
+
+
+
+[[use-self-support-options]]
+== 使用自助服务选项
+
+这些选项每周7天、每天24小时免费提供：
+
+* 文档
++
+当前正在查看的 NetApp Console 文档。
+
+* https://kb.netapp.com/Cloud/BlueXP["知识库"^]
++
+搜索 NetApp 知识库，查找解决问题的有用文章。
+
+* http://community.netapp.com/["社区"^]
++
+加入 NetApp Console 社区，关注正在进行的讨论或创建新的讨论。
+
+
